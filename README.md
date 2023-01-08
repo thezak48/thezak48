@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :zap: Github Stats
+
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=thezak48&show_icons=true&title_color=fff&theme=tokyonight" alt="Zak's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brettpetch&theme=tokyonight" width="37%" alt="Zak's Top Languages">
